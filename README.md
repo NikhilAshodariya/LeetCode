@@ -13,7 +13,7 @@ This repository has code for problems of following LeetCode problems
 
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [Solution] ()
 
-[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) [Solution] ()
+[8. String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/description/) [Solution] ()
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) [Solution] ()
 
