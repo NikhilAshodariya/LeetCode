@@ -47,5 +47,6 @@ This repository has code for problems of following LeetCode problems
 
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/34_Find_First_Last_Position_Of_Element_In_A_Array.ipynb)
 
-[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) [Solution]()
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/39_Combination_Sum.ipynb)
 
+[46. Permutation](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/46_Permutations.ipynb)
