@@ -49,4 +49,4 @@ This repository has code for problems of following LeetCode problems
 
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/39_Combination_Sum.ipynb)
 
-[46. Permutation](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/46_Permutations.ipynb)
+[46. Permutations](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/46_Permutations.ipynb)
