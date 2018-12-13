@@ -25,6 +25,8 @@ This repository has code for problems of following LeetCode problems
 
 [13. Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/13_Roman_To_Integer.ipynb)
 
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/14_Longest_Common_Prefix.ipynb)
+
 [15. 3Sum](https://leetcode.com/problems/3sum/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/15_3Sum.ipynb)
 
 [17. Letter Combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/17_Letter_Combinations_Phone_Number.ipynb)
