@@ -1,4 +1,4 @@
-# LeetCode
+# My LeetCode Solutions
 This repository has code for problems of following LeetCode problems
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/1_TwoSum.ipynb)
@@ -40,6 +40,8 @@ This repository has code for problems of following LeetCode problems
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/22_Generate_Parentheses.ipynb)
 
 [23. Merge K Sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/23_Merge_K_Sorted_List.ipynb)
+
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/26_Remove_Duplicates_from_Sorted_Array.ipynb)
 
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/31_Next_Premutation.ipynb)
 
