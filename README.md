@@ -43,6 +43,8 @@ This repository has code for problems of following LeetCode problems
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/26_Remove_Duplicates_from_Sorted_Array.ipynb)
 
+[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/29_Divide_Two_Integers.ipynb)  
+
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/31_Next_Premutation.ipynb)
 
 [32. Longest valid parenthese](https://leetcode.com/problems/longest-valid-parentheses/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/32_Longest_Valid_Parentheses.ipynb)
