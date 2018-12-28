@@ -59,4 +59,6 @@ This repository has code for problems of following LeetCode problems
 
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/039_Combination_Sum.ipynb)
 
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/041_First_Missing_Positive.ipynb)
+
 [46. Permutations](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/046_Permutations.ipynb)
