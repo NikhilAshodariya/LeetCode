@@ -62,3 +62,5 @@ This repository has code for problems of following LeetCode problems
 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/041_First_Missing_Positive.ipynb)
 
 [46. Permutations](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/046_Permutations.ipynb)
+
+[48. Rotate Image(https://leetcode.com/problems/rotate-image/description/)] ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/048_Rotate_Image.ipynb)
