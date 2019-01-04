@@ -64,3 +64,5 @@ This repository has code for problems of following LeetCode problems
 [46. Permutations](https://leetcode.com/problems/permutations/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/046_Permutations.ipynb)
 
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/048_Rotate_Image.ipynb)
+
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/049_Group_Anagrams.ipynb)
