@@ -68,3 +68,5 @@ This repository has code for problems of following LeetCode problems
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/049_Group_Anagrams.ipynb)
 
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/050_Pow_x_n.ipynb)
+
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/053_Maximum_Subarray.ipynb)
