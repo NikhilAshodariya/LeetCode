@@ -76,3 +76,5 @@ This repository has code for problems of following LeetCode problems
 [55. Jump Game](https://leetcode.com/problems/jump-game/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/055_Jump_Game.ipynb)
 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/056_Merge_Intervals.ipynb)
+
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/062_Unique_Paths.ipynb)
