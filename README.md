@@ -80,3 +80,5 @@ This repository has code for problems of following LeetCode problems
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/062_Unique_Paths.ipynb)
 
 [66. Plus One](https://leetcode.com/problems/plus-one/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/066_Plus_One.ipynb)
+
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/069_Sqrt_x.ipynb)
