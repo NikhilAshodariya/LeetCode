@@ -82,3 +82,5 @@ This repository has code for problems of following LeetCode problems
 [66. Plus One](https://leetcode.com/problems/plus-one/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/066_Plus_One.ipynb)
 
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/069_Sqrt_x.ipynb)
+
+[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/073_Set_Matrix_Zeroes.ipynb)
