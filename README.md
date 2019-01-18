@@ -84,3 +84,5 @@ This repository has code for problems of following LeetCode problems
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/069_Sqrt_x.ipynb)
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/073_Set_Matrix_Zeroes.ipynb)
+
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/075_Sort_Colors.ipynb)
