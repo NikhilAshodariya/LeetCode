@@ -86,3 +86,5 @@ This repository has code for problems of following LeetCode problems
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/073_Set_Matrix_Zeroes.ipynb)
 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/075_Sort_Colors.ipynb)
+
+[78. Subsets](https://leetcode.com/problems/subsets/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/078_Subsets.ipynb)
