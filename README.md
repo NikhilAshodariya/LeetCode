@@ -88,3 +88,5 @@ This repository has code for problems of following LeetCode problems
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/075_Sort_Colors.ipynb)
 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/078_Subsets.ipynb)
+
+[79. Word Search](https://leetcode.com/problems/word-search/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/079_Word_Search.ipynb)
