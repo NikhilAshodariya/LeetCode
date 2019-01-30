@@ -90,3 +90,5 @@ This repository has code for problems of following LeetCode problems
 [78. Subsets](https://leetcode.com/problems/subsets/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/078_Subsets.ipynb)
 
 [79. Word Search](https://leetcode.com/problems/word-search/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/079_Word_Search.ipynb)
+
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) ===> [Solution](https://github.com/NikhilAshodariya/LeetCode_Solution/blob/master/088_Merge_Sorted_Array.ipynb)
